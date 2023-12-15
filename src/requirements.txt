@@ -1,0 +1,9 @@
+# CSC111 Project
+
+# Testing and code checking
+hypothesis
+pytest
+python-ta~=1.6.3
+
+# Other
+midiutil
